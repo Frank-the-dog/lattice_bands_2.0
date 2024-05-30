@@ -2,6 +2,11 @@ A lattice and band plotting program built on github.com/le-birb/lattice-bands by
 
 It plots the primative unit cells, Brillouin zone, energy bands, and density of states for any of the 14 Bravais lattices.
 
+lattice_bands.py is the main program. (the one to run)
+
+
+
+
 The abstract from the acompanying thesis:
 
 Density functional theory (DFT) is one of the most common methods for calculating the electron states in crystal lattices. It is a good balance of 
