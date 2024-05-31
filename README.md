@@ -2,7 +2,7 @@ A lattice and band plotting program built on github.com/le-birb/lattice-bands by
 
 It plots the primative unit cells, Brillouin zone, energy bands, and density of states for any of the 14 Bravais lattices.
 
-lattice_bands.py is the main program. (the one to run)
+latticebands.py is the main program. (the one to run)
 
 
 
